@@ -1,0 +1,41 @@
+body{
+	color: white;
+}
+
+.text-center{
+	text-align: center;
+}
+
+.center{
+	margin: 0 auto;
+}
+
+.logo{
+	margin-top: 50px;
+	margin-bottom: 20px;
+}
+
+.banner{
+  width: 100%;
+  min-height: 342px;
+}
+
+.logo{
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+.btn{
+ /*  margin-top: 70px; */
+}
+
+h2{
+  color: #676766;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.cta{
+  margin-top: 20px;
+  text-align: right;
+}
