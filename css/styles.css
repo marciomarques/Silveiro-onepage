@@ -1,5 +1,6 @@
 body{
 	color: white;
+	background: url(../img/bg.png) repeat-x;
 }
 
 .text-center{
@@ -25,17 +26,18 @@ body{
 	margin-bottom: 50px;
 }
 
-.btn{
- /*  margin-top: 70px; */
-}
-
 h2{
-  color: #676766;
-  text-align: center;
-  margin-top: 20px;
+  font-size: 22px;
+  color: white;
+  margin-top: 50px;
 }
 
 .cta{
   margin-top: 20px;
   text-align: right;
+}
+
+p{
+  color: white;
+  line-height: 10px;
 }
